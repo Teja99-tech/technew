@@ -30,10 +30,10 @@
 [github link](https://github.com)
 ------------------------------------------------------------ 
 
-**to insert table**   
 |Name|Branch|roll|    
 |----|------|----|      
 |tej|cse|f1|  
 |swathi|cse|e9|  
-|sravs|cse|f0| 
+|sravs|cse|f0|   
+
 --------------------------------------------------------------
