@@ -28,11 +28,11 @@
 
 ![github](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
 [github link](https://github.com)
-------------------------------------------------------------
-**to insert table**
-|Name|Branch|roll|
-|------|-----|------|  
-|tej|cse|f1|  
+------------------------------------------------------------    
+**to insert table**   
+|Name|Branch|roll|    
+|----|------|----|      
+|tej|cse|f1|    
 |swathi|cse|e9|  
 |sravs|cse|f0|  
 --------------------------------------------------------------
